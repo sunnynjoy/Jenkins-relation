@@ -14,3 +14,7 @@ class AddMain:
     # 2 values subtract
     value = add.subtract_2_numbers(9, 2)
     print(" The subtraction of 2 numbers is ", value)
+
+    # 3 values subtract
+    value = add.subtract_3_numbers(9, 2, 1)
+    print(" The subtraction of 3 numbers is ", value)
