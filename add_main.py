@@ -10,3 +10,7 @@ class AddMain:
     # 3 values
     value = add.add_3_numbers(9, 2, 1)
     print(" The addition of 3 numbers is ", value)
+
+    # 2 values subtract
+    value = add.subtract_2_numbers(9, 2)
+    print(" The subtraction of 2 numbers is ", value)
